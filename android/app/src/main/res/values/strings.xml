@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Simple Dólar</string>
+    <string name="title_activity_main">Simple Dólar</string>
+    <string name="package_name">com.imlautaro.simpledolar</string>
+    <string name="custom_url_scheme">com.imlautaro.simpledolar</string>
+</resources>
